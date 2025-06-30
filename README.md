@@ -22,10 +22,10 @@ A simple command-line Python application to **manage your favorite YouTube video
 
 # 📂 File Structure
 
--youtube-video-manager/
- │
- ├── youtube_manager.py   # Main Python application
- └── youtube.txt          # Auto-created JSON storage file
+-Youtube-video-manager
+<br>|
+<br>├── youtube_manager.py   # Main Python application
+<br>└── youtube.txt          # Auto-created JSON storage file
 
 ---
 
